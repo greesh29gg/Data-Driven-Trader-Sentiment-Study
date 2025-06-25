@@ -29,15 +29,15 @@ historical_data.csv
 🚀 Setup & Installation
 
 1. Clone this repository:
-   ```bash
-   git clone https://github.com/yourusername/sentiment-trader-analysis.git
-   cd sentiment-trader-analysis
-   ```
+   
+   [git clone https://github.com/yourusername/sentiment-trader-analysis.git](https://github.com/greesh29gg/Data-Driven-Trader-Sentiment-Study.git)
+   
+   
 
 2. Install required Python libraries:
-   ```bash
+   
    pip install -r requirements.txt
-   ```
+  
 
 3. Place your CSV files inside the working directory:
    - `fear_greed_index.csv`

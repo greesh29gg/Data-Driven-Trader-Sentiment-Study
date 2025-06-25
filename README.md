@@ -35,9 +35,12 @@ historical_data.csv
    
 
 2. Install required Python libraries:
-   
-   pip install -r requirements.txt
-  
+     
+•	pandas
+•	matplotlib
+•	seaborn
+•	scikit-learn
+
 
 3. Place your CSV files inside the working directory:
    - `fear_greed_index.csv`
@@ -76,7 +79,6 @@ Evaluated with:
 - Precision
 - Recall
 - F1-Score
-
 
 
 
